@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NETD2202-ICE3", "NETD2202-ICE3\NETD2202-ICE3.vbproj", "{2EBB3F18-0385-4ECA-B47C-7B1CD17BD24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBB3F18-0385-4ECA-B47C-7B1CD17BD24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB3F18-0385-4ECA-B47C-7B1CD17BD24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB3F18-0385-4ECA-B47C-7B1CD17BD24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB3F18-0385-4ECA-B47C-7B1CD17BD24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B513322-20EA-48E3-86E8-4B1B9DC1CBF9}
+	EndGlobalSection
+EndGlobal
